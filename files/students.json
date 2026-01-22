@@ -1,0 +1,23 @@
+[
+    
+    {
+        "name" : "Yajnee",
+        "english" : 80,
+        "french" : 90
+    },
+    {
+        "name" : "Abraham",
+        "english" : 68,
+        "french" : 68
+    },
+    {
+        "name" : "Rajiv",
+        "english" : 52,
+        "french" : 87
+    },
+    {
+        "name" : "Ally",
+        "english" : 26,
+        "french" : 40
+    }
+]
